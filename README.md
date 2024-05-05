@@ -1,4 +1,4 @@
-<img width="100%" bottom="50px" src="https://github.com/caiomps/caiomps/assets/134006429/a83d3811-99e0-4dbf-bbb7-0141e2506b58"/>
+<img width="100%" bottom="50px" src="https://github.com/caiomps/caiomps/assets/134006429/a6e89afc-9e95-4d77-a7a6-3a48f420c205"/>
 <br>
 <br>
   
@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-<a href=mailto:cmp.1a.caiomportelasousann@gmail.com" target="_blanck">
+<a href=mailto:caiomportelasousann@gmail.com" target="_blanck">
 <img align="center" height="84" width="84" src="https://github.com/caiomps/caiomps/assets/134006429/4336f415-5682-4bb1-8a22-bec5de5569c0">
 </a>
 
