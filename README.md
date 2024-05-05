@@ -1,4 +1,4 @@
-<img width="100%" bottom="50px" src="https://github.com/caiomps/caiomps/assets/134006429/a6e89afc-9e95-4d77-a7a6-3a48f420c205"/>
+<img width="100%" bottom="50px" src="https://github.com/caiomps/caiomps/assets/134006429/49f4868f-75fa-495b-a0e0-78d42d0dab51"/>
 <br>
 <br>
 
