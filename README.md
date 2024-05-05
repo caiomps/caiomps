@@ -1,12 +1,17 @@
-<img width="100%" bottom="50px" src="https://github.com/caiomps/caiomps/assets/134006429/49f4868f-75fa-495b-a0e0-78d42d0dab51"/>
-<br>
-<br>
+<img width="100%" bottom="50px" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0b1691&descAlign=44&reversal=true"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=2000&pause=1000&color=2933BC&center=true&random=false&width=1000&height=100&lines=Hello%2C+My+name+is+Caio+Moura;I+am+19+years+old;I+am+a+Software+Developer)](https://git.io/typing-svg)
   
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caiomps&theme=dark&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=900&border=3A1D80&background=45%2C000000%2C000080)](https://git.io/streak-stats)
+
+<div align="center" width="100%">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiomps&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
+<img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomps&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
+
+</div>
 
 </div>
 
