@@ -1,6 +1,8 @@
 <img width="100%" bottom="50px" src="https://github.com/caiomps/caiomps/assets/134006429/a6e89afc-9e95-4d77-a7a6-3a48f420c205"/>
 <br>
 <br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=2000&pause=1000&center=true&random=false&width=1000&height=100&lines=Hello%2C+my+name+is+Caio+Moura%F0%9F%91%8B;I+Am+19+Years+Old;I+amm+a+Software+Developer)](https://git.io/typing-svg)
   
 <div align="center">
 
