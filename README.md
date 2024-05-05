@@ -11,19 +11,14 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
 <a href=mailto:caiomportelasousann@gmail.com" target="_blanck">
-<img align="center" height="84" width="84" src="https://github.com/caiomps/caiomps/assets/134006429/4336f415-5682-4bb1-8a22-bec5de5569c0">
-</a>
-
-<a href="https://instagram.com/caiomoura_p.s" target="_blanck">
-<img align="center" height="84" width="84" src="https://github.com/caiomps/caiomps/assets/134006429/fa660af8-98c9-41c3-8e09-911f4cbc45bf)">
+<img align="center" height="60" width="60" src="https://github.com/caiomps/caiomps/assets/134006429/4336f415-5682-4bb1-8a22-bec5de5569c0">
 </a>
 
 <a href="//www.linkedin.com/in/caio-moura-portela-sousa-6940b7272/" target="_blanck">
-<img align="center" height="84" width="84" src="https://github.com/caiomps/caiomps/assets/134006429/5ada4bc6-3cd2-4244-9cd7-207eb64660aa">
+<img align="center" height="60" width="60" src="https://github.com/caiomps/caiomps/assets/134006429/5ada4bc6-3cd2-4244-9cd7-207eb64660aa">
 </a>
 
 <div align="center">
@@ -53,19 +48,4 @@
 </div>
 
 <br>
-
-<div align="center">
-  
 <br>
-<br>
-<br>
-<br>
-
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcaiomps&s=50&c=ff0000&bg=00000000&no=2&ff=alien&tb=Visitantes%3A+&ta=" alt="visits"></p> 
-<br>
-</div>
-
-<img width="100%" botton="50px" src="https://github.com/caiomps/caiomps/assets/134006429/ac7fe8c0-0796-43b1-9b95-209f0a631e72" />
-
