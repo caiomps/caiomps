@@ -1,8 +1,6 @@
-<img width="100%" bottom="50px" src="https://github.com/caiomps/caiomps/assets/134006429/72c8d565-6d21-4c58-ac44-abfaa57a6b47"/>
+<img width="100%" bottom="50px" src="https://github.com/caiomps/caiomps/assets/134006429/a83d3811-99e0-4dbf-bbb7-0141e2506b58"/>
 <br>
 <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=2000&pause=1000&center=true&random=false&width=1000&height=100&lines=Hello%2C+my+name+is+Caio+Moura%F0%9F%91%8B;I+Am+19+Years+Old;I+amm+a+Software+Developer)](https://git.io/typing-svg)
   
 <div align="center">
 
@@ -64,4 +62,6 @@
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcaiomps&s=50&c=ff0000&bg=00000000&no=2&ff=alien&tb=Visitantes%3A+&ta=" alt="visits"></p> 
 <br>
 </div>
+
+<img width="100%" botton="50px" src="https://github.com/caiomps/caiomps/assets/134006429/ac7fe8c0-0796-43b1-9b95-209f0a631e72" />
 
