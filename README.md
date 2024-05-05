@@ -1,26 +1,24 @@
-<img width="100%" bottom="50px" src=""/>
+<img width="100%" bottom="50px" src="https://github.com/caiomps/caiomps/assets/134006429/72c8d565-6d21-4c58-ac44-abfaa57a6b47"/>
 <br>
 <br>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+my+name+is+Caio+Moura%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=2000&pause=1000&center=true&random=false&width=1000&height=100&lines=Hello%2C+my+name+is+Caio+Moura%F0%9F%91%8B;I+Am+19+Years+Old;I+amm+a+Software+Developer)](https://git.io/typing-svg)
   
-</div>
-
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caiomps&theme=dark&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&border=3A1D80&background=45%2C000000%2C000080)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=caiomps&theme=dark&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=900&border=3A1D80&background=45%2C000000%2C000080)](https://git.io/streak-stats)
 
 </div>
 
+<br>
+<br>
 
 <div align="center">
 <a href="https://instagram.com/caiomoura" target="_blanck">
 <img align="center" height="84" width="84" src="https://github.com/caiomps/caiomps/assets/134006429/4336f415-5682-4bb1-8a22-bec5de5569c0">
 </a>
 
-<a href="https://instagram.com/caiomoura" target="_blanck">
+<a href="https://www.linkedin.com/in/caio-moura-portela-sousa-6940b7272/" target="_blanck">
 <img align="center" height="84" width="84" src="https://github.com/caiomps/caiomps/assets/134006429/fa660af8-98c9-41c3-8e09-911f4cbc45bf)">
 </a>
 
@@ -30,27 +28,40 @@
 
 <div align="center">
 
-![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/caiomps?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=cyan&dark=true) 
+![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/caiomps?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=cyan&dark=true) 
 
 </div>
 
-### Main skills:
+
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
 
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+<h1> Main skills: </h1>
+<img align="left" height="84" width="84" src="https://github.com/caiomps/caiomps/assets/134006429/1a6fefab-656d-468b-bacc-6800f4c43431">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+<img align="left" height="80" width="80" src="https://github.com/caiomps/caiomps/assets/134006429/ebec1ae0-89b9-4c01-b201-8f6917024028">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+<img align="left"  height="80" width="80" src="https://github.com/caiomps/caiomps/assets/134006429/cc373578-122b-4ffb-b8bd-3e4a5a97042a">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+<img align="left"  height="80" width="80" src="https://github.com/caiomps/caiomps/assets/134006429/69e7ca6a-d60d-4dd7-b90f-15a4d7366af7">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+<img align="left"  height="80" width="80" src="https://github.com/caiomps/caiomps/assets/134006429/c0c8e7d8-c464-423e-a473-0affb30c319d">
+
+<img align="left"  height="80" width="80" src="https://github.com/caiomps/caiomps/assets/134006429/6b3c7d76-0d2e-4555-8c30-61ccff9289ea">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+</div>
 
+<div align="center">
+  
+<br>
+<br>
+<br>
+<br>
+
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcaiomps&s=50&c=ff0000&bg=00000000&no=2&ff=alien&tb=Visitantes%3A+&ta=" alt="visits"></p> 
+<br>
 </div>
 
