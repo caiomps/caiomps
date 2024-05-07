@@ -19,11 +19,11 @@
 
 <div align="center">
 <a href=mailto:caiomportelasousann@gmail.com" target="_blanck">
-<img align="center" height="60" width="60" src="https://github.com/caiomps/caiomps/assets/134006429/4336f415-5682-4bb1-8a22-bec5de5569c0">
+<img align="center" height="45" width="45" src="https://github.com/caiomps/caiomps/assets/134006429/4336f415-5682-4bb1-8a22-bec5de5569c0">
 </a>
 
 <a href="//www.linkedin.com/in/caio-moura-portela-sousa-6940b7272/" target="_blanck">
-<img align="center" height="60" width="60" src="https://github.com/caiomps/caiomps/assets/134006429/5ada4bc6-3cd2-4244-9cd7-207eb64660aa">
+<img align="center" height="45" width="45" src="https://github.com/caiomps/caiomps/assets/134006429/5ada4bc6-3cd2-4244-9cd7-207eb64660aa">
 </a>
 
 <div align="center">
