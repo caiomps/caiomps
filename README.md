@@ -27,13 +27,13 @@
 
 <p align="left">
   <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSMSqVrVmpLCJJhxsQQnfBQrvCjmsSmLjLvbrqJCcwKnCGdVKczqLWXNxdwKkvJqWjtlLJGg" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=caiomportelasousann@gmail.com /></a>
 
   </br>
 
   </br>
   
-  <a href="https://twitter.com/luciano655dev" alt="Twitter">
+  <a href="https://www.linkedin.com/in/caio-moura-portela-sousa/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&labelColor=55acee&logo=twitter&logoColor=white&link='https://twitter.com/Luciano655dev'"/></a>
 </p>
 
