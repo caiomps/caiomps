@@ -43,4 +43,4 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Luciano655dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<strong>-> nota: Este é um README curto para uma pequena apresentação aqui no github, o meu real portfolio está <a href="https://luciano655dev.netlify.app">***nesse site***</a></strong>
+<strong>-> nota: Este é um README curto para uma pequena apresentação aqui no github, o meu real portfolio está <a href="#">***nesse site***</a></strong>
