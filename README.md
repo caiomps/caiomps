@@ -34,7 +34,8 @@
   </br>
   
   <a href="https://www.linkedin.com/in/caio-moura-portela-sousa/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&labelColor=55acee&logo=twitter&logoColor=white&link='https://twitter.com/Luciano655dev'"/></a>
+  <img src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio%20Moura-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caio-moura-portela-sousa/)
+"/></a>
 </p>
 
 # My Status
