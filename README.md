@@ -21,20 +21,8 @@
   ✉️ My Social Medias: ⤵️
 </p>
 
-<p align="left">
-  </br>
-
-  </br>
-  
+<p align="left"> 
   <a href="https://www.linkedin.com/in/caio-moura-portela-sousa/" alt="Linkedin">
   <img src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio%20Moura-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caio-moura-portela-sousa/)
 "/></a>
 </p>
-
-# My Status
-<div>
-  <a href="https://github.com/caiomps">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=caiomps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<strong>-> nota: Este é um README curto para uma pequena apresentação aqui no github, o meu real portfolio está <a href="#">***nesse site***</a></strong>
