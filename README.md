@@ -22,9 +22,6 @@
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSMSqVrVmpLCJJhxsQQnfBQrvCjmsSmLjLvbrqJCcwKnCGdVKczqLWXNxdwKkvJqWjtlLJGg" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=caiomportelasousann@gmail.com /></a>
-
   </br>
 
   </br>
