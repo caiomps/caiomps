@@ -14,11 +14,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML, CSS, JavaScript, TypeScript, React, NodeJS, MongoDB, MYSQL</strong>
-</p>
-
-<p align="left">
-  💼 Courses: <strong>JS e TS (Udemy), Alura, Curso.dev</strong>
+  🦄 Skills: <strong>HTML, CSS, JavaScript, TypeScript, React, NodeJS, MongoDB, MYSQL, Angular</strong>
 </p>
 
 <p align="left">
