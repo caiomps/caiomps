@@ -8,7 +8,7 @@ Fullstack Developer com foco em desenvolvimento de aplicações web escaláveis,
 
 ## Tech Stack
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
