@@ -17,14 +17,12 @@ Fullstack Developer com foco em desenvolvimento de aplicações web escaláveis,
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
----
 
 ## Sobre
 
 Atualmente cursando o 7º período de Sistemas de Informação na UNIFACISA.  
 Experiência no desenvolvimento de aplicações front-end e back-end, com foco em performance, organização e escalabilidade.
 
----
 
 ## Conhecimentos Técnicos
 
@@ -37,15 +35,6 @@ Experiência no desenvolvimento de aplicações front-end e back-end, com foco e
 - Controle de versão com Git e GitHub  
 - Noções de conteinerização com Docker  
 
----
-
-## Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiomps&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomps&layout=compact)
-
----
 
 ## Contato
 
