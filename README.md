@@ -1,5 +1,7 @@
 # Caio Moura
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 Fullstack Developer com foco em desenvolvimento de aplicações web escaláveis, utilizando boas práticas de arquitetura e organização de código.
 
 ---
