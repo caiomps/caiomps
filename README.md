@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-###QA Engineer com background em Desenvolvimento Full Stack, focado em garantir a qualidade de aplicações web e mobile.
+### QA Engineer com background em Desenvolvimento Full Stack, focado em garantir a qualidade de aplicações web e mobile.
 ---
 
 ## Tech Stack
