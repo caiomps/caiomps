@@ -24,7 +24,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-origi
 
 ## Sobre
 
-Experiência em Desenvolvimento Full Stack, com foco em Qualidade de Software, boas práticas de desenvolvimento, testes e aplicações escaláveis.
+### Experiência em Desenvolvimento Full Stack, com foco em Qualidade de Software, boas práticas de desenvolvimento, testes e aplicações escaláveis.
 
 
 **Desenvolvimento e Qualidade de Software**
