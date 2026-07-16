@@ -11,6 +11,8 @@
   <img align="center" alt="Cypress" height="30" width="40"
 src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.svg">
   <img align="center" alt="playwright" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg">
+  <img align="center" alt="Cypress" height="30" width="40"
+src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
