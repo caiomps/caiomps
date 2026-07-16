@@ -24,16 +24,23 @@ Atualmente cursando o 7º período de Sistemas de Informação na UNIFACISA.
 Experiência no desenvolvimento de aplicações front-end e back-end, com foco em performance, organização e escalabilidade.
 
 
-## Conhecimentos Técnicos
+**Desenvolvimento e Qualidade de Software**
 
-- Desenvolvimento com JavaScript e TypeScript  
-- Construção de interfaces com React e Angular  
-- Desenvolvimento de APIs com Node.js e Java  
-- Consumo e integração de APIs REST  
-- Organização de projetos com separação de responsabilidades  
-- Aplicação de padrões de arquitetura  
-- Controle de versão com Git e GitHub  
-- Noções de conteinerização com Docker  
+* Desenvolvimento com JavaScript e TypeScript
+* Experiência com aplicações Web (React e Angular) e Mobile (React Native)
+* Desenvolvimento e consumo de APIs REST utilizando Node.js e Java
+* Planejamento e execução de testes funcionais, exploratórios, regressão e smoke
+* Automação de testes E2E com Cypress e Playwright
+* Testes de APIs com Postman e validação de contratos via Swagger/OpenAPI
+* Testes de performance e carga utilizando JMeter
+* Validação de dados com SQL
+* Elaboração de casos e cenários de teste utilizando BDD (Gherkin)
+* Registro, acompanhamento e documentação de bugs no Jira
+* Colaboração com equipes ágeis utilizando Scrum e SAFe
+* Versionamento de código e testes com Git e GitHub
+* Organização de projetos aplicando boas práticas de arquitetura e separação de responsabilidades
+* Noções de conteinerização com Docker
+ 
 
 
 ## Contato
