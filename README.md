@@ -14,7 +14,8 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" color="green" alt="cypress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg">
+<img align="center" alt="Cypress" height="30" width="40"
+src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.svg">
   <img align="center" alt="playwright" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg">
 </div>
 
